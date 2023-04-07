@@ -4,29 +4,9 @@
 
 As a Data Scientist with expertise in machine learning, deep learning, and data cleaning, I use my analytical and technical skills to extract insights from complex data sets. I have exposure to both structured and unstructured data and have proficient skills in deploying using AWS, Git, and Docker.
 
-## Skills
+![counter](https://enzm93osn2dh0v1.m.pipedream.net)
 
-- Data Cleaning
-- Data Preprocessing
-- SQL
-- AWS
-- MS-Excel
-- Python
-- Linux
-- Docker
-- Git/GitHub
-- PowerBI
-- Data Modelling
-- C
-- API
-- Flask
-- Statistics
-- CatBoost
-- Pandas
-- Numpy
-- Matplotlib
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainkhatumdi)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lunatic_sain)
 
-## Interests
-
-- Artificial Intelligence
-- Business Case-Studies
+![Github stats](https://github-readme-stats.vercel.app/api?username=lunaSnowflake)
