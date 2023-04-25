@@ -1,8 +1,6 @@
-# Hussain Khatumdi - Data Scientist
+Hi there 👋
 
-## Personal Summary
-
-As a Data Scientist with expertise in machine learning, deep learning, and data cleaning, I use my analytical and technical skills to extract insights from complex data sets. I have exposure to both structured and unstructured data and have proficient skills in deploying using AWS, Git, and Docker.
+My dream is to go deeper into neural network and probably make a home there one day :)
 
 ![counter](https://enzm93osn2dh0v1.m.pipedream.net)
 
