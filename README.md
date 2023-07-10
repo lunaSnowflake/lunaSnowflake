@@ -3,8 +3,7 @@ I am a Data Scientist/Analyst and a Developer <br/>
 
 🔭 I’m currently working on LawGPT <br/>
 👯 I’m looking to collaborate on building the New Architectural Neural Network <br/>
-🤝 I’m looking for help with <br/>
-🌱 I’m currently learning Deep Neural Networks <br/>
+🌱 I’m delving into Deep Neural Networks <br/>
 💬 Ask me about AI <br/>
 ⚡ Fun fact: Snooker and Chess? I Am The Chosen One! <br/>
 
