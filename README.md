@@ -1,4 +1,6 @@
 # 💫 About Me:
+![Dev Gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif) <br/>
+
 I am a Data Scientist/Analyst and a Developer <br/>
 
 🔭 I’m currently working on LawGPT <br/>
