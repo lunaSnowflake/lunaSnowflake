@@ -1,3 +1,9 @@
+<!-- <p align="left">
+<a href="https://github.com/lunaSnowflake">
+    <img src="https://readme-typing-svg.demolab.com? font=Arial&size=21&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hussain+Khatumdi;Data Scientist+%7C+Developer+AI+Geek+%7C;+%7C+Computer+Vision+%7C+Natural+Language+Processing" alt="Typing SVG" />
+</a>
+<br/> -->
+
 # 💫 About Me:
 ![Dev Gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif) <br/>
 
