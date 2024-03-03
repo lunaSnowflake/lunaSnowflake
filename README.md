@@ -4,10 +4,13 @@
 </a>
 <br/> -->
 
-# 💫 About Me:
+## <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/about-me-male.png" alt="about-me-male"/> About Me:
+
+<font color="orange">Imagine a curious soul frolicking in the realm of Data Science and Development – that's me! With a heart brimming with joy, I dance through projects ranging from coding escapades to the magic of AI and DevOps. Technology isn't just my playground; it's my vibrant canvas where every line of code is a brushstroke of pure delight! <br/> I am open to any suggestions, connect with me anywhere!</font> 
+<br/>
+
 ![Dev Gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif) <br/>
 
-I am a Data Scientist/Analyst and a Developer <br/>
 
 🔭 I’m currently working on LawGPT <br/>
 👯 I’m looking to collaborate on building the New Architectural Neural Network <br/>
@@ -23,21 +26,12 @@ My dream is to go deeper into neural networks and prolly make a home there one d
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hussainkhatumadi53) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lunatic_sain) -->
 
-<a href="https://www.linkedin.com/in/hussainkhatumdi">
-  <img width="50" height="auto" src="https://img.icons8.com/color/50/linkedin.png" alt="LinkedIn"/>
-</a>
-<a href="https://www.kaggle.com/lunaticsain">
-    <img width="50" height="auto" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-tritone-tal-revivo.png" alt="Kaggle"/>
-</a>
-<a href="https://www.hackerrank.com/hussainkhatumdi">
-  <img width="50" height="auto" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/>
-</a>
-<a href="https://medium.com/@hussainkhatumadi53">  
-  <img width="50" height="auto" src="https://img.icons8.com/sf-black-filled/50/medium-monogram.png" alt="Medium"/>
-</a>
-<a href="https://twitter.com/lunatic_sain">
-  <img width="50" height="auto" src="https://img.icons8.com/ios-filled/50/twitterx.png" alt="TwitterX"/>
-</a>
+[![Github](https://img.icons8.com/ios-filled/50/github.png)](https://github.com/lunaSnowflake)
+[![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hussainkhatumdi/)
+[<img src="https://i.ibb.co/5MsxX1w/kaggle-icon-512x512-ubnqei0x.png" width="48px">](https://www.kaggle.com/lunaticsain)
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="48px">](https://www.hackerrank.com/hussainkhatumdi)
+[![Medium](https://img.icons8.com/sf-regular-filled/48/medium-logo.png)](https://medium.com/@hussainkhatumadi53) 
+[![Twitter](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/lunatic_sain) 
 
 
 # 💻 Tech Stack:
